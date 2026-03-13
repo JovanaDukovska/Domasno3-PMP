@@ -1,0 +1,8 @@
+## Activity Lifecycle
+
+- onCreate – се повикува кога Activity се креира.
+- onStart – Activity станува видлива за корисникот.
+- onResume – Activity е активна и корисникот може да интерактира.
+- onPause – Activity губи фокус.
+- onStop – Activity повеќе не е видлива.
+- onDestroy – Activity се уништува.
